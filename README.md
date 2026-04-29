@@ -31,7 +31,7 @@ Every prompt example here is:
 ---
 
 ## How to Read Each Example
-
+---
 Every prompt example follows this structure:
 Domain        — the real-world context (formal writing, education, health, etc.)
 Goal          — what we are trying to get the AI to produce
@@ -40,6 +40,7 @@ Bad output    — what the AI actually returns (and why it fails)
 Refined prompt — the improved version with linguistic reasoning applied
 Refined output — the significantly better result
 What changed  — the linguistic and cultural reasoning behind the improvement
+---
 
 ---
 
